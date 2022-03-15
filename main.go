@@ -51,5 +51,9 @@ func main() {
 	textcolor.Green(fmt.Sprintf("Результат: %.2f", res))
 	textcolor.Blue(fmt.Sprintf("Результат: %.2f", res))
 	textcolor.Cyan(fmt.Sprintf("Результат: %.2f", res))
+	textcolor.Cyan(fmt.Sprintf("Результат: %.2f", res))
+	textcolor.Cyan(fmt.Sprintf("Результат: %.2f", res))
+	textcolor.Cyan(fmt.Sprintf("Результат: %.2f", res))
+	textcolor.Cyan(fmt.Sprintf("Результат: %.2f", res))
 
 }
